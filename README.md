@@ -14,7 +14,7 @@ Each project in this repository is contained in its own folder, with a dedicated
 
 Each link below takes you to the folder for a specific project, where you’ll find instructions, code, and documentation for that project.
 
-1. [Project 1: Hello User](Project1-HelloUser/README.md) - A greeting program that interacts with the user.
+```1. [Project 1: Hello User](Project1-HelloUser/README.md) - A greeting program that interacts with the user.
 2. [Project 2: Quick Calculator](Project2-QuickCalculator/README.md) - A basic calculator for quick arithmetic operations.
 3. [Project 3: Body Buddy](Project3-BodyBuddy/README.md) - Calculates BMI and gives health feedback.
 4. [Project 4: Guess the Number](Project4-GuessTheNumber/README.md) - A fun number-guessing game.
@@ -44,6 +44,7 @@ Each link below takes you to the folder for a specific project, where you’ll f
 28. [Project 28: Email Notifier](Project28-EmailNotifier/README.md) - Sends automated emails with attachments.
 29. [Project 29: Markdown to HTML Converter](Project29-MarkdownToHTML/README.md) - Converts Markdown files to HTML.
 30. [Project 30: Personal Journal](Project30-PersonalJournal/README.md) - A simple journal app with date-stamping.
+```
 
 ---
 
